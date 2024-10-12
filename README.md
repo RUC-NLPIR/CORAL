@@ -1,1 +1,1 @@
-# Benchmarking Conversational RAG based on Webbrain
+# CORAL: Benchmarking Conversational Retrieval-Augmentation Generation
