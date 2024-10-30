@@ -1,19 +1,22 @@
 # <div align="center">🔥 CORAL: Benchmarking Conversational Retrieval-Augmentation Generation<div>
 
 We present an automatic and novel approach for constructing large-scale conversational RAG benchmarks from Wikipedia and auto-evaluation Benchmark named **CORAL**.
-
-
-
 In CORAL, we evaluate conversational RAG systems across three essential tasks:   
 (1) **Conversational Passage Retrieval**: assessing the system’s ability to retrieve relevant information from a large document set based on multi-turn context;  
 (2) **Response Generation**: evaluating the system’s capacity to generate accurate, contextually rich answers;  
 (3) **Citation Labeling**: ensuring that the generated responses are transparent and grounded by requiring correct attribution of sources.  
+
+What's more, We develop a unified framework for standardizing and evaluating various conversational RAG baselines, facilitating systematic comparison and advancement in this rapidly evolving field.
 
 
 ## CORAL
 
 ### 🌠 Overview of Constructing Dataset Process
 <img width="1276" alt="image" src="https://github.com/user-attachments/assets/24e33890-70b9-45de-8a98-469c8b4a97b9">
+
+
+### 🌈 Four Different Conversation Flow Sampling
+<img width="1397" alt="image" src="https://github.com/user-attachments/assets/c65a197e-d097-4509-936a-df1a28118ffd">
 
 
 ### :wrench: Data statistics
@@ -107,6 +110,15 @@ In CORAL, we evaluate conversational RAG systems across three essential tasks:
         </tr>
     </tbody>
 </table>
+
+
+## Unified Framework of Conversational RAG
+
+
+<img width="1274" alt="image" src="https://github.com/user-attachments/assets/e9484f88-695a-40d2-85f4-6a77a25b0b67">
+
+
+
 
 
 
