@@ -132,7 +132,8 @@ What's more, We develop a unified framework for standardizing and evaluating var
 
 ## :bookmark: License
 
-FlashRAG is licensed under the [<u>MIT License</u>](./LICENSE).
+Our code is licensed under the [<u>MIT License</u>](./LICENSE).
+Our dataset is distributed under the [CC BY-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
 ## :star2: Citation
 Please kindly cite our paper if helps your research:
