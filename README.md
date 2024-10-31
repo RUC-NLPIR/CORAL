@@ -9,14 +9,15 @@
 </div>
 
 
-We present an automatic and novel approach for constructing a large-scale conversational RAG benchmark from Wikipedia and an auto-evaluation Benchmark named **CORAL**.
-CORAL has five critical features: open-domain coverage, knowledge-intensiveness, freeform response generation, handling of topic shifts, and citation labeling.  
-In CORAL, we evaluate conversational RAG systems across three essential tasks:   
+We present a large-scale conversational RAG benchmark named **CORAL** and propose a unified framework for standardizing and evaluating various conversational RAG baselines.  
+
+- **CORAL:** CORAL has five critical features: open-domain coverage, knowledge-intensiveness, freeform response generation, handling of topic shifts, and citation labeling.  In CORAL, we evaluate conversational RAG systems across three essential tasks:   
 (1) **Conversational Passage Retrieval**: assessing the system’s ability to retrieve relevant information from a large document set based on multi-turn context;  
 (2) **Response Generation**: evaluating the system’s capacity to generate accurate, contextually rich answers;  
-(3) **Citation Labeling**: ensuring that the generated responses are transparent and grounded by requiring correct attribution of sources.  
+(3) **Citation Labeling**: ensuring that the generated responses are transparent and grounded by requiring correct attribution of sources.
 
-What's more, We develop a unified framework for standardizing and evaluating various conversational RAG baselines, facilitating systematic comparison and advancement in this rapidly evolving field.
+
+- **Conversational RAG Framework:** We develop a unified framework for standardizing and evaluating various conversational RAG baselines, facilitating systematic comparison and advancement in this rapidly evolving field.
 
 
 ## 🪸 CORAL
@@ -123,7 +124,7 @@ What's more, We develop a unified framework for standardizing and evaluating var
 
 ### 
 
-## 🔥 Unified Framework of Conversational RAG
+## 🔥 Conversational RAG Framework
 
 
 <img width="1274" alt="image" src="https://github.com/user-attachments/assets/e9484f88-695a-40d2-85f4-6a77a25b0b67">
