@@ -1,4 +1,5 @@
-# <div align="center">🔥 CORAL: Benchmarking Conversational Retrieval-Augmentation Generation<div>
+# <div align="center">![coral](https://github.com/user-attachments/assets/2953f19b-0ec1-4b4a-a911-8956446fb9ab)
+ CORAL: Benchmarking Conversational Retrieval-Augmentation Generation<div>
 
 We present an automatic and novel approach for constructing large-scale conversational RAG benchmarks from Wikipedia and auto-evaluation Benchmark named **CORAL**.
 In CORAL, we evaluate conversational RAG systems across three essential tasks:   
