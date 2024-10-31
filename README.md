@@ -1,5 +1,12 @@
 # <div align="center"><img src="https://github.com/user-attachments/assets/2953f19b-0ec1-4b4a-a911-8956446fb9ab" width="40" />CORAL: Benchmarking Conversational Retrieval-Augmentation Generation<div>
 
+
+<div align="center">
+<a href="https://arxiv.org/pdf/2410.09584" target="_blank"><img src=https://img.shields.io/badge/arXiv-b5212f.svg?logo=arxiv></a>
+<a><img alt="Static Badge" src="https://img.shields.io/badge/made_with-Python-blue"></a>
+</div>
+
+
 We present an automatic and novel approach for constructing large-scale conversational RAG benchmarks from Wikipedia and auto-evaluation Benchmark named **CORAL**.
 In CORAL, we evaluate conversational RAG systems across three essential tasks:   
 (1) **Conversational Passage Retrieval**: assessing the system’s ability to retrieve relevant information from a large document set based on multi-turn context;  
