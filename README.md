@@ -18,7 +18,7 @@ In CORAL, we evaluate conversational RAG systems across three essential tasks:
 What's more, We develop a unified framework for standardizing and evaluating various conversational RAG baselines, facilitating systematic comparison and advancement in this rapidly evolving field.
 
 
-## CORAL
+## 🪸 CORAL
 
 ### 🌠 Overview of Constructing Dataset Process
 <img width="1276" alt="image" src="https://github.com/user-attachments/assets/24e33890-70b9-45de-8a98-469c8b4a97b9">
