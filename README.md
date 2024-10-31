@@ -10,7 +10,7 @@
 
 
 We present an automatic and novel approach for constructing a large-scale conversational RAG benchmark from Wikipedia and an auto-evaluation Benchmark named **CORAL**.
-CORAL has five critical features: open-domain coverage, knowledge-intensiveness, freeform response generation, handling of topic shifts, and citation labeling.
+CORAL has five critical features: open-domain coverage, knowledge-intensiveness, freeform response generation, handling of topic shifts, and citation labeling.  
 In CORAL, we evaluate conversational RAG systems across three essential tasks:   
 (1) **Conversational Passage Retrieval**: assessing the system’s ability to retrieve relevant information from a large document set based on multi-turn context;  
 (2) **Response Generation**: evaluating the system’s capacity to generate accurate, contextually rich answers;  
