@@ -120,12 +120,25 @@ What's more, We develop a unified framework for standardizing and evaluating var
     </tbody>
 </table>
 
+### 
 
 ## Unified Framework of Conversational RAG
 
 
 <img width="1274" alt="image" src="https://github.com/user-attachments/assets/e9484f88-695a-40d2-85f4-6a77a25b0b67">
 
+## 🚀 QuickStart
+
+
+## :bookmark: License
+
+FlashRAG is licensed under the [<u>MIT License</u>](./LICENSE).
+
+## :star2: Citation
+Please kindly cite our paper if helps your research:
+```BibTex
+
+```
 
 
 
