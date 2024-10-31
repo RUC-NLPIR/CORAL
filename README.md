@@ -28,7 +28,7 @@ What's more, We develop a unified framework for standardizing and evaluating var
 <img width="1397" alt="image" src="https://github.com/user-attachments/assets/c65a197e-d097-4509-936a-df1a28118ffd">
 
 
-### :wrench: Data statistics
+### 🎯 Data statistics
 <table style="width: 100%; border-collapse: collapse;">
     <thead>
         <tr>
@@ -122,7 +122,7 @@ What's more, We develop a unified framework for standardizing and evaluating var
 
 ### 
 
-## Unified Framework of Conversational RAG
+## 🔥 Unified Framework of Conversational RAG
 
 
 <img width="1274" alt="image" src="https://github.com/user-attachments/assets/e9484f88-695a-40d2-85f4-6a77a25b0b67">
