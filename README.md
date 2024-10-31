@@ -20,6 +20,12 @@ We present a large-scale conversational RAG benchmark named **CORAL** and propos
 - **Conversational RAG Framework:** We develop a unified framework for standardizing and evaluating various conversational RAG baselines, facilitating systematic comparison and advancement in this rapidly evolving field.
 
 
+<p align="center">
+🤖️ <a href="" target="_blank">Website</a> • 🤗 <a href="https://huggingface.co/datasets/ariya2357/CORAL" target="_blank">Dataset</a> • 📖 <a href="https://arxiv.org/pdf/2410.23090" target="_blank">Paper</a>  <br>
+</p>
+
+---
+
 ## 🪸 CORAL
 
 ### 🌠 Overview of Constructing Dataset Process
