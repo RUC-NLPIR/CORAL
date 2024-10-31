@@ -128,7 +128,32 @@ We present a large-scale conversational RAG benchmark named **CORAL** and propos
     </tbody>
 </table>
 
-### 
+### Dataset Format
+CORAL includes 8,000 conversations in jsonline format. Each line in either the ```train_conversation.json``` or ```test_conversation.json``` file follows this structure:
+```
+{
+
+    "conv_id": "Train_type_convid",
+    "turns": [
+            {
+                "turn_id": 1,
+                "question": "",
+                "response": "",
+                "golden_rewrite": "",
+                "golden_docs_pids": [],
+                "golden_docs_text": []
+            },
+            {
+                "turn_id": 2,
+                "question": "",
+                "response": "",
+                "golden_rewrite": "",
+                "golden_docs_pids": [],
+                "golden_docs_text": []
+            },
+    ...
+}
+```
 
 ## 🔥 Conversational RAG Framework
 
