@@ -171,7 +171,15 @@ Our dataset is distributed under the [CC BY-SA-4.0](https://creativecommons.org/
 ## :star2: Citation
 Please kindly cite our paper if helps your research:
 ```BibTex
-
+@misc{cheng2024coral,
+      title={CORAL: Benchmarking Multi-turn Conversational Retrieval-Augmentation Generation}, 
+      author={Yiruo Cheng and Kelong Mao and Ziliang Zhao and Guanting Dong and Hongjin Qian and Yongkang Wu and Tetsuya Sakai and Ji-Rong Wen and Zhicheng Dou},
+      year={2024},
+      eprint={2410.23090},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR},
+      url={https://arxiv.org/abs/2410.23090}, 
+}
 ```
 
 
