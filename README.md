@@ -2,7 +2,6 @@
 
 
 <div align="center">
-<a href="https://arxiv.org/pdf/2410.23090" target="_blank"><img src=https://img.shields.io/badge/arXiv-b5212f.svg?logo=arxiv></a>
 <a href="https://github.com/Ariya12138/CORAL/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/LICENSE-MIT-green"></a>
 <a><img alt="Static Badge" src="https://img.shields.io/badge/made_with-Python-blue"></a>
 </div>
