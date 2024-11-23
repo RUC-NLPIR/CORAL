@@ -20,7 +20,7 @@ We present a large-scale conversational RAG benchmark named **CORAL** and propos
 
 
 <p align="center">
-🤖️ <a href="" target="_blank">Website</a>  • 📖 <a href="https://arxiv.org/pdf/2410.23090" target="_blank">Paper</a>  <br>
+🤖️ <a href="" target="_blank">Website</a> 
 </p>
 
 ---
@@ -167,20 +167,7 @@ CORAL includes 8,000 conversations in jsonline format. Each line in either the `
 Our code is licensed under the [<u>MIT License</u>](./LICENSE).
 Our dataset is distributed under the [CC BY-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
-## :star2: Citation
-Please kindly cite our paper if helps your research:
-```BibTex
-@article{cheng2024coral,
-  title={CORAL: Benchmarking Multi-turn Conversational Retrieval-Augmentation Generation},
-  author={Cheng, Yiruo and Mao, Kelong and Zhao, Ziliang and Dong, Guanting and Qian, Hongjin and Wu, Yongkang and Sakai, Tetsuya and Wen, Ji-Rong and Dou, Zhicheng},
-  journal={arXiv preprint arXiv:2410.23090},
-  year={2024},
-  eprint={2410.23090},
-  archivePrefix={arXiv},
-  primaryClass={cs.IR},
-  url={https://arxiv.org/abs/2410.23090}, 
-}
-```
+
 
 
 
