@@ -18,9 +18,6 @@ We present a large-scale conversational RAG benchmark named **CORAL** and propos
 - **Conversational RAG Framework:** We develop a unified framework for standardizing and evaluating various conversational RAG baselines, facilitating systematic comparison and advancement in this rapidly evolving field.
 
 
-<p align="center">
-🤖️ <a href="" target="_blank">Website</a> 
-</p>
 
 ---
 
