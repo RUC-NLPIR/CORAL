@@ -165,6 +165,35 @@ Our dataset is distributed under the [CC BY-SA-4.0](https://creativecommons.org/
 
 
 
+## 📄 Citation
+
+If you find this work helpful, please cite our paper:
+```bibtex
+@article{cheng2024coral,
+  author       = {Yiruo Cheng and
+                  Kelong Mao and
+                  Ziliang Zhao and
+                  Guanting Dong and
+                  Hongjin Qian and
+                  Yongkang Wu and
+                  Tetsuya Sakai and
+                  Ji{-}Rong Wen and
+                  Zhicheng Dou},
+  title        = {{CORAL:} Benchmarking Multi-turn Conversational Retrieval-Augmentation
+                  Generation},
+  journal      = {CoRR},
+  volume       = {abs/2410.23090},
+  year         = {2024},
+  url          = {https://doi.org/10.48550/arXiv.2410.23090},
+  doi          = {10.48550/ARXIV.2410.23090},
+  eprinttype    = {arXiv},
+  eprint       = {2410.23090},
+  timestamp    = {Fri, 29 Nov 2024 21:16:27 +0100},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2410-23090.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
 
 
 
