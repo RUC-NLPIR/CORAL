@@ -1,11 +1,11 @@
 # <div align="center"><img src="https://github.com/user-attachments/assets/2953f19b-0ec1-4b4a-a911-8956446fb9ab" width="40" />CORAL: Benchmarking Conversational Retrieval-Augmentation Generation<div>
 
 
-<div align="center">
+
 <a href="https://github.com/Ariya12138/CORAL/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/LICENSE-MIT-green"></a>
 <a><img alt="Static Badge" src="https://img.shields.io/badge/made_with-Python-blue"></a>
 [![Paper](https://img.shields.io/badge/Paper-arXiv-b5212f.svg?logo=arxiv)](https://arxiv.org/pdf/2410.23090) 
-</div>
+
 
 
 We present a large-scale conversational RAG benchmark named **CORAL** and propose a unified framework for standardizing and evaluating various conversational RAG baselines.  
