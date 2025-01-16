@@ -1,6 +1,5 @@
 # <div align="center"><img src="https://github.com/user-attachments/assets/2953f19b-0ec1-4b4a-a911-8956446fb9ab" width="40" />CORAL: Benchmarking Conversational Retrieval-Augmentation Generation<div>
 
-<
 
 <div style="text-align: center;">
     <a href="https://github.com/Ariya12138/CORAL/blob/main/LICENSE">
