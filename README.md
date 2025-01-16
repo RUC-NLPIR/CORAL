@@ -1,6 +1,17 @@
 # <div align="center"><img src="https://github.com/user-attachments/assets/2953f19b-0ec1-4b4a-a911-8956446fb9ab" width="40" />CORAL: Benchmarking Conversational Retrieval-Augmentation Generation<div>
 
-
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .badge-container {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 10px; /* 调整徽章之间的间距 */
+        }
+    </style>
+</head>
 
 <div class="badge-container">
     <a href="https://github.com/Ariya12138/CORAL/blob/main/LICENSE">
