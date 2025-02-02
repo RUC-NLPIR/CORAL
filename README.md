@@ -196,7 +196,6 @@ Please kindly cite our paper if helps your research:
   biburl       = {https://dblp.org/rec/journals/corr/abs-2410-23090.bib},
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
-}
 ```
 
 
