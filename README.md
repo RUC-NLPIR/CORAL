@@ -163,6 +163,9 @@ CORAL includes 8,000 conversations in jsonline format. Each line in either the `
 
 ## 🚀 QuickStart
 
+```
+git lfs clone https://huggingface.co/datasets/ariya2357/CORAL
+```
 
 ## :bookmark: License
 
