@@ -26,6 +26,12 @@ We present a large-scale conversational RAG benchmark named **CORAL** and propos
 
 
 ---
+## 💥 News
+- [05/2025] 🔥 Our dataset has been updated to the second version.
+
+- [10/2024] 🔥 We introduced ***CORAL***, a conversational RAG dataset. 
+
+---
 
 ## 🪸 CORAL
 
