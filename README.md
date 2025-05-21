@@ -146,7 +146,6 @@ CORAL includes 8,000 conversations in jsonline format. Each line in either the `
                 "turn_id": 1,
                 "question": "",
                 "response": "",
-                "golden_rewrite": "",
                 "golden_docs_pids": [],
                 "golden_docs_text": []
             },
@@ -154,7 +153,6 @@ CORAL includes 8,000 conversations in jsonline format. Each line in either the `
                 "turn_id": 2,
                 "question": "",
                 "response": "",
-                "golden_rewrite": "",
                 "golden_docs_pids": [],
                 "golden_docs_text": []
             },
